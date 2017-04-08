@@ -1,0 +1,35 @@
+Order (rank) the Grid boxes based on the total number of tweets made in each box and return the total count of tweets in each box: 
+C2: 139308 tweets
+C3: 52749 tweets
+B2: 78693 tweets
+B3: 26209 tweets
+C4: 19450 tweets
+B1: 16384 tweets
+D4: 14555 tweets
+C1: 8374 tweets
+A3: 5024 tweets
+C5: 4026 tweets
+B4: 5445 tweets
+A1: 2546 tweets
+D5: 3153 tweets
+A2: 4159 tweets
+A4: 309 tweets
+
+
+Order (rank) the rows based on the total number of tweets in each row:
+C-Row: 223907
+B-Row: 126731
+D-Row: 17708
+A-Row: 12038
+
+
+Order (rank) the columns based on the total number of tweets in each column:
+Column 2: 222160
+Column 3: 83982
+Column 1: 27304
+Column 4: 25204
+Column 5: 7179
+
+real	2m44.555s
+user	7m13.892s
+sys	3m42.766s
